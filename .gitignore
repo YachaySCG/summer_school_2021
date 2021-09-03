@@ -1,0 +1,8 @@
+stuff/data/converted/
+stuff/data/pred
+stuff/data/test
+stuff/data/train
+
+dataset_preparation.py
+dataset_preparation.ipynb
+data_scg_2021.zip
