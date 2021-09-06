@@ -4,8 +4,8 @@
 
 | Title             | Date                       | Link |
 |-------------------|----------------------------|------|
-| Transfer Learning | Day 1 - September 20, 2021 | <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/template_pytorch_sc_2021.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |
-|                   | Day 2 - September 21, 2021 |  <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/template_pytorch_sc_2021.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
+| Pytorch Basiscs | Day 1 - September 20, 2021 | <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/template_pytorch_sc_2021.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |
+| Transfer Learning | Day 2 - September 21, 2021 |  <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/template_pytorch_sc_2021.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
 |                   | Day 3 - September 22, 2021 |  <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/template_pytorch_sc_2021.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
 |                   | Day 4 - September 23, 2021 | <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/template_pytorch_sc_2021.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |
 |                   | Day 5 - September 24, 2021 |  <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/template_pytorch_sc_2021.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
