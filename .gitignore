@@ -3,8 +3,13 @@
 stuff/data/converted/
 stuff/data/pred
 stuff/data/test
+stuff/data/test_by_class
 stuff/data/train
+stuff/data/val
+stuff/data/data_sc_2021.zip
 
 dataset_preparation.py
 dataset_preparation.ipynb
 data_scg_2021.zip
+adjust_dataset.py
+print_len_dataset.py
