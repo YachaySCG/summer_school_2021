@@ -84,3 +84,14 @@ The submission file should be named:
 | Proposal Presentation            | September 24, 2021 |
 | End of time for sending results  | October 1, 2021    |
 | Announcement of results-> Awards | October 4, 2021    |
+
+
+### Information about data set
+
+The dataset used in this challenge is the "Intel Image Classification" dataset provided by Puneet Bansal.
+
+Source: [https://www.kaggle.com/techsash/waste-classification-data](https://www.kaggle.com/puneet6060/intel-image-classification)
+
+Licence: CC BY-SA 4.0
+
+The dataset has been processed for the needs of this challenge
