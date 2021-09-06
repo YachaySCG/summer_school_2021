@@ -33,7 +33,7 @@ The dataset was dividided in train: 9300 images, val: 3000 images, test: 4734
 
     [data_scg_2021.zip](https://drive.google.com/file/d/1rj3UQDnEInxdwzOHCqevveUl24fiuJ46/view)
 
-- Your task is to propose a model to obtain best classification results using the provided PRED subset (a part of the data_scg_2021.zip).
+- Your task is to propose a model to obtain best classification results using the provided `test` subset (a part of the data_scg_2021.zip).
 - The participants of this challenge will be required to send the code of the created solution (in a ZIP file) for further check.
 - The results will be evaluated by the organizers and three best entries will be awarded.
 - The winners of the competition will be asked to send a short video (1-5 minutes) or PDF slides with a presentation of their solution. The film or slides will be placed on the SCG 2021 website, therefore matters relating to the privacy of submitters must be properly considered when preparing the video).
@@ -49,7 +49,7 @@ parameters:
 - average='weighted'
 - other parameters - default.
 
-For each id in the pred set, you must predict a type of natural scene (or label). The file should contain a header and have the following format:
+For each id in the `test` set, you must predict a type of natural scene (or label). The file should contain a header and have the following format:
 
 ```bash
 id,label
