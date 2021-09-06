@@ -1,12 +1,6 @@
 .ipynb_checkpoints/
 
-stuff/data/converted/
-stuff/data/pred
-stuff/data/test
-stuff/data/test_by_class
-stuff/data/train
-stuff/data/val
-stuff/data/data_sc_2021.zip
+stuff/
 
 dataset_preparation.py
 dataset_preparation.ipynb
