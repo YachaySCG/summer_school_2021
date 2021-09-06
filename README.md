@@ -26,7 +26,7 @@ The dataset counts with 6 natural scene categories: `buildings`, `forest`, `glac
 
 The dataset was dividided in train: 9300 images, val: 3000 images, test: 4734
 
-**Rules**
+### Rules
 
 - This is an individual competition, only for SC 2021 participants.
 - You will work with the dataset available at:
@@ -38,7 +38,7 @@ The dataset was dividided in train: 9300 images, val: 3000 images, test: 4734
 - The results will be evaluated by the organizers and three best entries will be awarded.
 - The winners of the competition will be asked to send a short video (1-5 minutes) or PDF slides with a presentation of their solution. The film or slides will be placed on the SCG 2021 website, therefore matters relating to the privacy of submitters must be properly considered when preparing the video).
 
-**Evaluation**
+### Evaluation
 
 Submissions will be evaluated on a weighted F1 score using a scikit-learn function. The submission website will be announced on Slack.
 
@@ -76,7 +76,7 @@ The submission file should be named:
 
 , where 'first' is the participant's first name and 'n' is the first letter of the participant's last name.
 
-**Schedule** 
+### Schedule 
 
 | Activity                         | Date               |
 |----------------------------------|--------------------|
