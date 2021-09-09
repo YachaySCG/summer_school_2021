@@ -28,7 +28,7 @@ The dataset was dividided in train: 9300 images, val: 3000 images, test: 4734
 
 ### Rules
 
-- This is an individual competition, only for SC 2021 participants.
+- This is an individual competition, only for Scientific Computing Summer School 2021 participants.
 - You will work with the dataset available at:
 
     [dataset_sc_2021.zip](https://drive.google.com/file/d/1pFWcrh9Qdn8irqognubPTjfaY1uDecFM/view?usp=sharing)
