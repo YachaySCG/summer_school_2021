@@ -1,5 +1,12 @@
 # SC Summer School 2021 Materials
 
+## Journal Club
+
+| Article                                                            | Link |
+|--------------------------------------------------------------------|------|
+| Attention Is All You Need                                          |  <a href="https://arxiv.org/abs/1706.03762" target="_parent"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/ArXiv_web.svg" width="64" height="32" alt="Open In Arxiv"/></a>     |
+| A Stochastic Phylogenetic Algorithm for Mitochondrial DNA Analysis |  <a href="https://www.frontiersin.org/articles/10.3389/fgene.2019.00066/full" target="_parent"><img src="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/admin-header-logo.png" width="32" height="32" alt="Open In Genetics"/></a>    |
+
 ## Tutorial Notebooks
 
 | Title             | Date                       | Link |
