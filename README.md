@@ -11,11 +11,11 @@
 
 | Title             | Date                       | Link |
 |-------------------|----------------------------|------|
-| Pytorch Basics | Day 1 - September 20, 2021 | <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |
-| Transfer Learning | Day 2 - September 21, 2021 |  <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
-|                   | Day 3 - September 22, 2021 |  <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
-|                   | Day 4 - September 23, 2021 | <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |
-|                   | Day 5 - September 24, 2021 |  <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
+| Transfer Learning in Tensorflow | Day 1 - September 20, 2021 | <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |
+| Introduction to Reinforcement Learning with Python | Day 2 - September 21, 2021 |  <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
+| Introduction of Quantum Computing with Qiskit | Day 3 - September 22, 2021 |  <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
+| Bayesian Neural Network | Day 4 - September 23, 2021 | <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>     |
+| Python Implementation of Self-Organizing Maps to process COVID-19 databases | Day 5 - September 24, 2021 |  <a href="" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
 
 ## Challenge Resources
 
