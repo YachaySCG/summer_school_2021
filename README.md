@@ -11,7 +11,7 @@
 
 | Title             | Date                       | Link |
 |-------------------|----------------------------|------|
-| Transfer Learning in Tensorflow | Day 1 - September 20, 2021 |   TBD   |
+| Transfer Learning in Tensorflow | Day 1 - September 20, 2021 |   <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/tutorial_day1_transfer_learning.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>   |
 | Introduction to Reinforcement Learning with Python | Day 2 - September 21, 2021 |   <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/tutorial_day2_reinforcemen_learning.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
 | Introduction to Quantum Computing with Qiskit | Day 3 - September 22, 2021 | TBD |
 | Bayesian Neural Network | Day 4 - September 23, 2021 | <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/tutorial_day4_bayesian_neural_network.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
