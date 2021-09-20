@@ -15,7 +15,7 @@
 | Introduction to Reinforcement Learning with Python | Day 2 - September 21, 2021 |   <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/tutorial_day2_reinforcemen_learning.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
 | Introduction to Quantum Computing with Qiskit | Day 3 - September 22, 2021 | TBD |
 | Bayesian Neural Network | Day 4 - September 23, 2021 | <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/tutorial_day4_bayesian_neural_network.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
-| Self-Organizing Maps to process COVID-19 databases | Day 5 - September 24, 2021 |  TBD    |
+| Self-Organizing Maps to process COVID-19 databases | Day 5 - September 24, 2021 |  <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/tutorial_day5_self_organizing_maps.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    |
 
 ## Challenge Resources
 
@@ -56,32 +56,37 @@ parameters:
 - average='weighted'
 - other parameters - default.
 
-For each id in the `test` set, you must predict a type of natural scene (or label). The file should contain a header and have the following format:
+The **proposal presentation** will hold 3-5min and is about your progress, proposal, or just ideas about dealing with the problem.
 
-```bash
-id,label
-22010,B
-22006,F
-22013,G
-24025,M
-8046,S
-803,ST
-```
+Also, we will require you to submit **two files with your results**. The submission website will be announced on Slack.
 
-where 
+1. We require a .csv file where for each id in the `test` set, you must predict a type of natural scene (or label). The file should contain a header and have the following format:
 
-- B indicates `buildings`
-- F indicates `forest`
-- G indicates `glacier`
-- M indicates `mountain`
-- S indicates `sea`
-- ST indicate `street`
+    ```bash
+    id,label
+    22010,B
+    22006,F
+    22013,G
+    24025,M
+    8046,S
+    803,ST
+    ```
 
-The submission file should be named: 
+    where 
 
-`sample_submission_first_n.csv`
+    - B indicates `buildings`
+    - F indicates `forest`
+    - G indicates `glacier`
+    - M indicates `mountain`
+    - S indicates `sea`
+    - ST indicate `street`
 
-, where 'first' is the participant's first name and 'n' is the first letter of the participant's last name.
+    The submission file should be named: 
+
+    `sample_submission_firstname_lastname.csv`
+
+2. We require you to send the code of the created solution (in a ZIP file) for further check. Use the following format for the name
+sample_submission_firstname_lastname.zip
 
 ### Schedule 
 
