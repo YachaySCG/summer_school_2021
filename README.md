@@ -2,10 +2,10 @@
 
 ## Journal Club
 
-| Article                                                            | Link |
-|--------------------------------------------------------------------|------|
-| Attention Is All You Need                                          |  <a href="https://arxiv.org/abs/1706.03762" target="_parent"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/ArXiv_web.svg" width="64" height="32" alt="Open In Arxiv"/></a>     |
-| A Stochastic Phylogenetic Algorithm for Mitochondrial DNA Analysis |  <a href="https://www.frontiersin.org/articles/10.3389/fgene.2019.00066/full" target="_parent"><img src="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/admin-header-logo.png" width="32" height="32" alt="Open In Genetics"/></a>    |
+| Article                                                            | Link | Slides |
+|--------------------------------------------------------------------|------|-------|
+| Attention Is All You Need                                          |  <a href="https://arxiv.org/abs/1706.03762" target="_parent"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/ArXiv_web.svg" width="64" height="32" alt="Open In Arxiv"/></a>     | <a href="https://drive.google.com/file/d/14ThLIuTZTS7YkqTApbtsQ01o0kpg8piE/view?usp=sharing" target="_parent"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_drive_logo_icon_159334.png" width="32" height="32" alt="Download Dataset"/></a>   |
+| A Stochastic Phylogenetic Algorithm for Mitochondrial DNA Analysis |  <a href="https://www.frontiersin.org/articles/10.3389/fgene.2019.00066/full" target="_parent"><img src="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/admin-header-logo.png" width="32" height="32" alt="Open In Genetics"/></a>    |     |
 
 ## Tutorial Notebooks
 
@@ -21,7 +21,7 @@
 | Lecture              | Slides |
 |---------------------|------|
 | Day1 - Development of various industrial technologies based on artificial intelligence | TBD |
-| Day1 - Time series encoding in Neural Networks | TBD |
+| Day1 - Time series encoding in Neural Networks | -- |
 
 ## Challenge Resources
 
