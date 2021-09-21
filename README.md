@@ -12,7 +12,7 @@
 | Title             | Date                       | Link | Slides |
 |-------------------|----------------------------|------| -------|
 | Transfer Learning in Tensorflow | Day 1 - September 20 |   <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/tutorial_day1_transfer_learning.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>   | <a href="https://docs.google.com/presentation/d/1aIZ94LI6U-ew5hrFsfg-EDZKmMgaH3pz/edit?usp=sharing&ouid=115969927324318402062&rtpof=true&sd=true" target="_parent"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_drive_logo_icon_159334.png" width="32" height="32" alt="Download Dataset"/></a>  |
-| Introduction to Reinforcement Learning with Python | Day 2 - September 21 |   <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/tutorial_day2_reinforcemen_learning.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    | |
+| Introduction to Reinforcement Learning with Python | Day 2 - September 21 |   <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/tutorial_day2_reinforcemen_learning.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    | -- |
 | Introduction to Quantum Computing with Qiskit | Day 3 - September 22 | <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/tutorial_day3_quantum_computing.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
 | Bayesian Neural Network | Day 4 - September 23 | <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/tutorial_day4_bayesian_neural_network.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | |
 | Self-Organizing Maps to process COVID-19 databases | Day 5 - September 24 |  <a href="https://colab.research.google.com/github/YachaySCG/summer_school_2021/blob/master/tutorial_day5_self_organizing_maps.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>    | |
@@ -20,8 +20,16 @@
 ## Lectures
 | Lecture              | Slides |
 |---------------------|------|
-| Day1 - Development of Various Industrial Technologies Based on Artificial Intelligence | TBD |
-| Day1 - Time series encoding in Neural Networks | -- |
+| Day 1 - Development of Various Industrial Technologies Based on Artificial Intelligence | TBD |
+| Day 1 - Time series encoding in Neural Networks | -- |
+| Day 2 - Reinforcement Learning: From a Mathematical Concept to a Powerful Technological Tool| TBD |
+| Day 2 - Deep Learning for Near Real Time Deforestation Detection | -- |
+| Day 3 - Predicting Choice in Matrix Games Using Transfer Learning | TBD |
+| Day 3 - Machine Learning with Bio-Ontologies | TBD |
+| Day 4 - Smart System in Health Care | TBD |
+| Day 4 - The Last Wave of NLP | TBD |
+| Day 5 - Bioinformatics for SARS-CoV-2 genomics, the pandemic COVID-19 virus | TBD |
+| Day 5 - Human Activity Detection for Emergency Response in Smart Spaces using Multiple Sensors | TBD |
 
 ## Challenge Resources
 
