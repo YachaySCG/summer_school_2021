@@ -24,8 +24,8 @@
 | Day 1 - Time series encoding in Neural Networks | -- |
 | Day 2 - Reinforcement Learning: From a Mathematical Concept to a Powerful Technological Tool| TBD |
 | Day 2 - Deep Learning for Near Real Time Deforestation Detection | -- |
-| Day 3 - Predicting Choice in Matrix Games Using Transfer Learning | TBD |
-| Day 3 - Machine Learning with Bio-Ontologies | TBD |
+| Day 3 - Predicting Choice in Matrix Games Using Transfer Learning | -- |
+| Day 3 - Machine Learning with Bio-Ontologies | <a href="https://drive.google.com/file/d/1Z8eTa8ijbc9q0FxtIpoPpd-MNVPLBu5Q/view?usp=sharing" target="_parent"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_drive_logo_icon_159334.png" width="32" height="32" alt="Download Dataset"/></a> |
 | Day 4 - Smart System in Health Care | TBD |
 | Day 4 - The Last Wave of NLP | TBD |
 | Day 5 - Bioinformatics for SARS-CoV-2 genomics, the pandemic COVID-19 virus | TBD |
