@@ -29,7 +29,7 @@
 | Day 4 - Smart System in Health Care | <a href="https://docs.google.com/presentation/d/10h7uxO9EqwCGoPIEzhYh0gC7iLMVhqgV/edit?usp=sharing&ouid=115969927324318402062&rtpof=true&sd=true" target="_parent"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_drive_logo_icon_159334.png" width="32" height="32" alt="Download Dataset"/></a> |
 | Day 4 - The Last Wave of NLP | <a href="https://drive.google.com/file/d/1EyIzzRLMsw4SLJx-iM0nvMdtujiCqoEh/view?usp=sharing" target="_parent"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_drive_logo_icon_159334.png" width="32" height="32" alt="Download Dataset"/></a> |
 | Day 5 - Bioinformatics for SARS-CoV-2 genomics, the pandemic COVID-19 virus | TBD |
-| Day 5 - Human Activity Detection for Emergency Response in Smart Spaces using Multiple Sensors | TBD |
+| Day 5 - Human Activity Detection for Emergency Response in Smart Spaces using Multiple Sensors | <a href="https://drive.google.com/file/d/1cJtJIyq3ABngU1DEYD9-Gf3bDTFiQ1Sq/view?usp=sharing" target="_parent"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_drive_logo_icon_159334.png" width="32" height="32" alt="Download Dataset"/></a> |
 
 ## Challenge Resources
 
