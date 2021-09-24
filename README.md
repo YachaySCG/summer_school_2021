@@ -20,7 +20,7 @@
 ## Lectures
 | Lecture              | Slides |
 |---------------------|------|
-| Day 1 - Development of Various Industrial Technologies Based on Artificial Intelligence | TBD |
+| Day 1 - Development of Various Industrial Technologies Based on Artificial Intelligence | <a href="https://drive.google.com/file/d/1_QGe6xqrutjKiqbSqmcT0rtCNzxhkfRp/view?usp=sharing" target="_parent"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_drive_logo_icon_159334.png" width="32" height="32" alt="Download Dataset"/></a> |
 | Day 1 - Time series encoding in Neural Networks | -- |
 | Day 2 - Reinforcement Learning: From a Mathematical Concept to a Powerful Technological Tool| <a href="https://docs.google.com/presentation/d/1_vE4iTeyYOt__I2SMARRMDQ_tYs1mqSk/edit?usp=sharing&ouid=115969927324318402062&rtpof=true&sd=true" target="_parent"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_drive_logo_icon_159334.png" width="32" height="32" alt="Download Dataset"/></a> |
 | Day 2 - Deep Learning for Near Real Time Deforestation Detection | -- |
