@@ -1,4 +1,6 @@
-# SC Summer School 2021 Materials
+# YSC Summer School 2021 Materials
+
+These are all the materials used in Yachay Scientific Computing Summer School 2021. For more details, you can visite the oficial webpage: [https://www.yachay-scg.com/summer-school](https://www.yachay-scg.com/summer-school)
 
 ## Journal Club
 
