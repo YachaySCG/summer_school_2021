@@ -2,12 +2,14 @@
 
 These are all the materials used in Yachay Scientific Computing Summer School 2021. For more details, you can visite the oficial webpage: [https://www.yachay-scg.com/summer-school](https://www.yachay-scg.com/summer-school)
 
+Opening: <a href="https://drive.google.com/file/d/1ZWHio3V1wWzt_FpucBV1CB3JcA6PQxft/view?usp=sharing" target="_parent"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_drive_logo_icon_159334.png" width="32" height="32" alt="Download Dataset"/></a> 
+
 ## Journal Club
 
 | Article                                                            | Link | Slides |
 |--------------------------------------------------------------------|------|-------|
 | Attention Is All You Need                                          |  <a href="https://arxiv.org/abs/1706.03762" target="_parent"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/ArXiv_web.svg" width="64" height="32" alt="Open In Arxiv"/></a>     | <a href="https://drive.google.com/file/d/14ThLIuTZTS7YkqTApbtsQ01o0kpg8piE/view?usp=sharing" target="_parent"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_drive_logo_icon_159334.png" width="32" height="32" alt="Download Dataset"/></a>   |
-| A Stochastic Phylogenetic Algorithm for Mitochondrial DNA Analysis |  <a href="https://www.frontiersin.org/articles/10.3389/fgene.2019.00066/full" target="_parent"><img src="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/admin-header-logo.png" width="32" height="32" alt="Open In Genetics"/></a>    |  <a href="https://www.canva.com/design/DAEq1wg1ob8/5Z3zVKKIydB_nLa1VLmyPw/view?utm_content=DAEq1wg1ob8&utm_campaign=designshare&utm_medium=link&utm_source=viewer" target="_parent"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" width="32" height="32" alt="Download Dataset"/></a>   |
+| A Stochastic Phylogenetic Algorithm for Mitochondrial DNA Analysis |  <a href="https://www.frontiersin.org/articles/10.3389/fgene.2019.00066/full" target="_parent"><img src="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/admin-header-logo.png" width="32" height="32" alt="Open In Genetics"/></a>    |  <a href="https://en.wikipedia.org/wiki/Canva#/media/File:Canva_Logo.png" target="_parent"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" width="32" height="32" alt="Canvas Slides"/></a>   |
 
 ## Tutorial Notebooks
 
