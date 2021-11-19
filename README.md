@@ -2,7 +2,7 @@
 
 These are all the materials used in Yachay Scientific Computing Summer School 2021. For more details, you can visite the oficial webpage: [https://www.yachay-scg.com/summer-school](https://www.yachay-scg.com/summer-school)
 
-Opening: <a href="https://drive.google.com/file/d/1ZWHio3V1wWzt_FpucBV1CB3JcA6PQxft/view?usp=sharing" target="_parent"><img src="https://cdn.icon-icons.com/icons2/2642/PNG/512/google_drive_logo_icon_159334.png" width="32" height="32" alt="Download Dataset"/></a> 
+| Opening Slides | <a href="https://drive.google.com/file/d/1ZWHio3V1wWzt_FpucBV1CB3JcA6PQxft/view?usp=sharing" target="_parent"><img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-emblema.jpg" width="32" height="32" alt="Download Dataset"/></a> |
 
 ## Journal Club
 
